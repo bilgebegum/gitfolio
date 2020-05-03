@@ -14,7 +14,7 @@ body {
   overflow-x: hidden;
   align-items: center;
   font-family: "Poppins", sans-serif;
-  background: rgb(250, 250, 250) !important;
+  background: rgb(250, 250, 0) !important;
   will-change: auto;
 }
 
